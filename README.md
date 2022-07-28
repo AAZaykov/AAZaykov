@@ -11,3 +11,5 @@
 </h1>
 ### 👨‍💻: About Me :
   I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  
+  ![Profile views](https://gpvc.arturio.dev/AAZaykov)
